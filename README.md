@@ -86,6 +86,6 @@ Back in 1900, for example, 91% of all children of any gender were given a name f
 * [Popular Baby Names--the United States Social Security Administration (SSA)](https://www.ssa.gov/oact/babynames/limits.html)
 * [The crude birth rates and general fertility rates in the United States](https://catalog.data.gov/dataset/births-and-general-fertility-rates-united-states-1909-2013/resource/a4d978b0-3396-4bb9-b967-b3c8c69b03a3?inner_span=True)
 * [Python Pandas API Reference](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
-* [Jupter Notebook for data analysis and visualization]()
+* [Jupter Notebook for data analysis and visualization](https://github.com/YilunCai627/US-Baby-Naming-Revolution-Analysis/blob/master/Baby-Naming%20Revolution.ipynb)
 
 
